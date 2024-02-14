@@ -30,7 +30,7 @@ Run the script with Python from your terminal or command prompt:
 python slide_generator.py
 ```
 
-After execution, the script will read source.txt file with proper source text, and generate a `content.tex` file, containing a proper Beamer presentation in the same directory. This file can be compiled with a LaTeX editor or command-line tool to produce the final presentation slides.
+After execution, the script will read `source.txt` file with proper source text, and generate a `content.tex` file, containing a proper Beamer presentation in the same directory. This file can be compiled with a LaTeX editor or command-line tool to produce the final presentation slides.
 
 ## Customizing the Script
 
@@ -38,11 +38,9 @@ You may modify the script to adjust the number of lines per slide, paraphrasing 
 
 ## Contributing
 
-Contributions to improve the script or extend its functionality are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to improve the script or extend its functionality are welcome. Please feel free to fork the repository, make your changes, and submit a pull request. For any questions or suggestions, please open an issue in the GitHub repository.
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
----
 
-For any questions or suggestions, please open an issue in the GitHub repository.
